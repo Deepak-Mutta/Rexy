@@ -32,4 +32,4 @@ It is a 3lb combat robot built for competitive BattleBots-style events. It featu
 
 
 **Battle 3** 
-[Rexy vs Dysfunctionals](https://www.youtube.com/watch?v=gOBiet8Y5_8&t=23370s)
+[Rexy vs Dysfunctionals](https://www.youtube.com/watch?v=gOBiet8Y5_8&t=24045s)
