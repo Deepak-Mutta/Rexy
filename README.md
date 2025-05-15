@@ -20,12 +20,12 @@ Rexy is my first step into the world of competitive combat robotics—where mech
 
   <div style="margin-right: 20px;">
     <h3>Rexy Battle 1</h3>
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+    <iframe width="400" height="225" src="images/fight_1.mp4" frameborder="0" allowfullscreen></iframe>
   </div>
 
   <div>
     <h3>Rexy Battle 2</h3>
-    <iframe width="400" height="225" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+    <iframe width="400" height="225" src="images/fight_2.mp4" frameborder="0" allowfullscreen></iframe>
   </div>
 
 </div>
