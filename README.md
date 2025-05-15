@@ -37,3 +37,11 @@ It is a 3lb combat robot built for competitive BattleBots-style events. It featu
   </div>
 
 </div>
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="margin-right: 20px;">
+    <h3>Rexy Battle 3</h3>
+    <iframe width="600" height="400" src="https://www.youtube.com/watch?v=C3zUdo48mAg" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
