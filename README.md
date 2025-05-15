@@ -1,15 +1,15 @@
 ## 🛠️ Featured Project: **Rexy** – My First BattleBot
 
-![Rexy Front View](images\rexy.png) <!-- Optional second image -->
+![Rexy Front View](images/rexy.png) <!-- Optional second image -->
 
 **Rexy** is a 3lb combat robot built for competitive BattleBots-style events. It features:
 
 - 🌀 **Front Spinning Weapon**: Designed for maximum moment of inertia, maximizing destructive power within the 3lb weight limit.
-![Weapon design in Fusion 360](images\weapon.png)
+![Weapon design in Fusion 360](images/weapon.png)
 - 🧠 **Optimized Weight Distribution**: Engineered for stability and impact delivery.
 - 🛡️ **1-inch TPU Wraparound Armor**: Acts as a shock absorber, protecting critical internals while absorbing enemy hits.
 - 🏗️ **Nylon-Enclosed Electronics Chamber**: Provides a durable, lightweight housing for the electronics and motors, ensuring second layer of protection from impact while maintaining optimal weight distribution.
-![Rexy Front View](images\internals.png)
+![Rexy Front View](images/internals.png)
 Rexy is my first step into the world of competitive combat robotics—where mechanical design, materials science, and control engineering meet head-on.
 
 # 🎥 Rexy Battle Videos
