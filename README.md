@@ -1,13 +1,21 @@
-## 🛠️ Featured Project: **Rexy** – My First BattleBot
+## <img src="images/rexy_logo.png" alt="Rexy Front View" width="24" /> Featured Project: **Rexy** – My First BattleBot 
 
-![Rexy Front View](images/rexy.png) <!-- Optional second image -->
+![Rexy Front View](images/rexy.png) 
 **Rexy** is my first step into the world of competitive combat robotics—where mechanical design, materials science, and control engineering meet head-on. 
 
 It is a 3lb combat robot built for competitive BattleBots-style events. It features:
 
-- 🌀 **Front Spinning Weapon**: Designed for maximum moment of inertia, maximizing destructive power within the 3lb weight limit.
-![Weapon design in Fusion 360](images/weapon.png)
+- 🌀 **Front Spinning Weapon**: Designed for maximum moment of inertia, maximizing destructive power within the 3lb weight limit. Designed to reduce high-stress points through Finite Element Analysis (FEA) simulations. 
+<div style="text-align:center;">
+<img src="images/weapon.png" alt="Rexy Front View" width="200" />
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="images/t_0.png" alt="Image 1" width="150"/>
+  <img src="images/t_5.png" alt="Image 2" width="150"/>
+  <img src="images/t_15.png" alt="Image 3" width="150"/>
+</div>
 - 🧠 **Optimized Weight Distribution**: Engineered for stability and impact delivery.
+
 - 🛡️ **1-inch TPU Wraparound Armor**: Acts as a shock absorber, protecting critical internals while absorbing enemy hits.
 - 🏗️ **Nylon-Enclosed Electronics Chamber**: Provides a durable, lightweight housing for the electronics and motors, ensuring second layer of protection from impact while maintaining optimal weight distribution.
 ![Rexy Front View](images/internals.png)
@@ -15,33 +23,12 @@ It is a 3lb combat robot built for competitive BattleBots-style events. It featu
 
 # 🎥 Rexy Battle Videos
 
-## Watch Rexy in Action:
-<div style="display: flex; justify-content: space-around;">
+**Battle 1** 
+[Link to watch on youtube](https://www.youtube.com/watch?v=gOBiet8Y5_8&t=16745s)
 
-  <div style="margin-right: 20px;">
-    <h3>Rexy Battle 1</h3>
-    <video width="500" controls>
-      <source src="images/fight_1.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
+**Battle 2** 
+[Link to watch on youtube](https://www.youtube.com/watch?v=gOBiet8Y5_8&t=16745s)
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <h3>Rexy Battle 2</h3>
-    <video width="500" controls>
-      <source src="images/fight_2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 
-</div>
-
-<div style="display: flex; justify-content: space-around;">
-
-  <div style="margin-right: 20px;">
-    <h3>Rexy Battle 3</h3>
-    <iframe width="600" height="400" src="https://www.youtube.com/watch?v=C3zUdo48mAg" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
+**Battle 3** 
+[Link to watch on youtube](https://www.youtube.com/watch?v=gOBiet8Y5_8&t=16745s)
